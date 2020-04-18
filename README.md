@@ -1,2 +1,0 @@
-# kosan
-Direktori file kosan
