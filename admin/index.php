@@ -37,6 +37,4 @@ if (isset($_GET['halaman'])) {
   }
 }
 ?>
-
-<?php include "main.php" ?>
 <?php include "footer.php" ?>
