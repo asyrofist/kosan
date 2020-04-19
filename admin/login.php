@@ -72,7 +72,7 @@
                     <a class="small" href="index.php?halaman=register">Create an Account!</a>
                   </div>
                   <div class="text-center">
-                    <a class="small" href="<?php echo $baseurl; ?>">Create an Account!</a>
+                    <a class="small" href="<?php echo $baseurl; ?>">Back To Homepage</a>
                   </div>
                 </div>
               </div>
