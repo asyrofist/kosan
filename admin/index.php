@@ -3,7 +3,7 @@
 <?php include "topbar.php" ?>
 
 <?php
-if (isset($_GET['halaman'])) {
+if (!isset($_GET['halaman'])) {
   if ($_GET['halaman'] == 'main') {
     include "main.php";
   } elseif ($_GET['halaman'] == '404') {
