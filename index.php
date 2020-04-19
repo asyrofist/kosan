@@ -6,6 +6,8 @@ if (isset($_GET['halaman'])) {
         include "home.php";
     } elseif ($_GET['halaman'] == "sample_blog") {
         include "sample_blog.php";
+    } elseif ($_GET['halaman'] == "blog") {
+        include "blog.php";
     } else {
         include "404.php";
     }
