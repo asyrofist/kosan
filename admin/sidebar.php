@@ -58,7 +58,7 @@
             <h6 class="collapse-header">Custom Utilities:</h6>
             <a class="collapse-item" href="index.php?halaman=utilities-color">Colors</a>
             <a class="collapse-item" href="index.php?halaman=utilities-border">Borders</a>
-            <a class="collapse-item" href="inde.php?halaman=utilities-animation">Animations</a>
+            <a class="collapse-item" href="index.php?halaman=utilities-animation">Animations</a>
             <a class="collapse-item" href="index.php?halaman=utilities-other">Other</a>
           </div>
         </div>
