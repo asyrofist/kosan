@@ -11,6 +11,14 @@ if (!isset($_GET['halaman'])) {
 if (isset($_GET['halaman'])) {
   if ($_GET['halaman'] == 'main') {
     include "main.php";
+  } elseif ($_GET['halaman'] == 'produk') {
+    include "produk.php";
+  } elseif ($_GET['halaman'] == 'pembelian') {
+    include "pembelian.php";
+  } elseif ($_GET['halaman'] == 'pelanggan') {
+    include "pelanggan.php";
+  } elseif ($_GET['halaman'] == 'detail') {
+    include "detail.php";
   } elseif ($_GET['halaman'] == '404') {
     include "404.php";
   } elseif ($_GET['halaman'] == 'blank') {
