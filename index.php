@@ -8,6 +8,10 @@ if (isset($_GET['halaman'])) {
         include "sample_blog.php";
     } elseif ($_GET['halaman'] == "blog") {
         include "blog.php";
+    } elseif ($_GET['halaman'] == "shop") {
+        include "shop.php";
+    } elseif ($_GET['halaman'] == "itemshop") {
+        include "itemshop.php";
     } else {
         include "404.php";
     }
