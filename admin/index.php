@@ -3,7 +3,12 @@
 <?php include "topbar.php" ?>
 
 <?php
-if (cisset($_GET['halaman'])) {
+
+if (!isset($_GET['halaman'])) {
+  include "main.php";
+}
+
+if (isset($_GET['halaman'])) {
   if ($_GET['halaman'] == 'main') {
     include "main.php";
   } elseif ($_GET['halaman'] == '404') {
@@ -35,8 +40,6 @@ if (cisset($_GET['halaman'])) {
   } else {
     include "main.php";
   }
-} else {
-  include "main.php";
 }
 
 ?>
