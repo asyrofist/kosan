@@ -1,3 +1,6 @@
+<!-- Masthead-->
+<header class="masthead"></header>
+
 <!-- 404 Error Text -->
 <div class="text-center">
   <div class="error mx-auto" data-text="404">404</div>
