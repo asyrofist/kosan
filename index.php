@@ -5,10 +5,10 @@ if (isset($_GET['halaman'])) {
     if ($_GET['halaman'] == "home") {
         include "home.php";
     } else {
-        include "home.php";
+        include "404.php";
     }
 } else {
-    include "home.php";
+    include "404.php";
 }
 ?>
 
