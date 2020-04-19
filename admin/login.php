@@ -1,3 +1,4 @@
+<?php include "config.php" ?>
 <!DOCTYPE html>
 <html lang="en">
 
@@ -65,10 +66,13 @@
                   </form>
                   <hr>
                   <div class="text-center">
-                    <a class="small" href="forgot-password.html">Forgot Password?</a>
+                    <a class="small" href="index.php?halaman=forgot-password">Forgot Password?</a>
                   </div>
                   <div class="text-center">
-                    <a class="small" href="register.html">Create an Account!</a>
+                    <a class="small" href="index.php?halaman=register">Create an Account!</a>
+                  </div>
+                  <div class="text-center">
+                    <a class="small" href="<?php echo $baseurl; ?>">Create an Account!</a>
                   </div>
                 </div>
               </div>
