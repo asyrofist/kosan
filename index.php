@@ -8,7 +8,7 @@ if (isset($_GET['halaman'])) {
         include "404.php";
     }
 } else {
-    include "404.php";
+    include "home.php";
 }
 ?>
 
