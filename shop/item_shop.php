@@ -7,7 +7,7 @@
       <img class="card-img-top img-fluid" src="<?php echo $perproduk['foto_produk'] ?>" alt="">
       <div class="card-body">
         <h3 class="card-title"><?php echo $perproduk['nama_produk'] ?></h3>
-        <h4><?php echo $perproduk['harga_produk'] ?></h4>
+        <h4>Rp. <?php echo number_format($perproduk['harga_produk']) ?></h4>
         <p class="card-text"><?php echo $perproduk['deskripsi_produk'] ?></p>
         <span class="text-warning">&#9733; &#9733; &#9733; &#9733; &#9734;</span>
         4.0 stars

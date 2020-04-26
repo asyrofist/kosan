@@ -21,10 +21,10 @@
           <div class="col-lg-8">
             <div class="modal-body">
               <!-- Project Details Go Here-->
-              <h2 class="text-uppercase">Project Name</h2>
-              <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
-              <img class="img-fluid d-block mx-auto" src="dist/assets/img/portfolio/01-full.jpg" alt="" />
-              <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
+              <h2 class="text-uppercase"><?php echo $perproduk['nama_produk'] ?></h2>
+              <p class="item-intro text-muted">Rp. <?php echo number_format($perproduk['harga_produk']) ?></p>
+              <img class="img-fluid d-block mx-auto" src="<?php echo $perproduk['foto_produk'] ?>" alt="" />
+              <p><?php echo $perproduk['deskripsi_produk'] ?></p>
               <ul class="list-inline">
                 <li>Date: January 2020</li>
                 <li>Client: Threads</li>

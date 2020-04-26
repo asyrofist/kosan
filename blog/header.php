@@ -1,11 +1,6 @@
 <?php
-session_start();
 include "config.php";
-if (!isset($_SESSION['admin'])) {
-  echo "<script>location='login.php'</script>";
-  header('location:login.php');
-  exit();
-}
+
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -40,7 +35,7 @@ if (!isset($_SESSION['admin'])) {
           <li class="nav-item"><a class="nav-link js-scroll-trigger" href="../../<?php echo $baseurl; ?>#team">Team</a></li>
           <li class="nav-item"><a class="nav-link js-scroll-trigger" href="../../<?php echo $baseurl; ?>#contact">Contact</a></li>
           <li class="nav-item"><a class="nav-link js-scroll-trigger" href="../index.php?halaman=blog">blog</a></li>
-          <li class="nav-item"><a class="nav-link js-scroll-trigger" href="../index.php?halaman=shop">shop</a></li>
+          <li class="nav-item"><a class="nav-link js-scroll-trigger" href="../shop">shop</a></li>
         </ul>
       </div>
     </div>

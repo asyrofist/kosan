@@ -2,7 +2,8 @@
 // session_start();
 include "sidebar.php";
 
-if (empty($_SESSION['keranjang']) OR !isset($_SESSION['keranjang'])) {
+if (empty($_SESSION['keranjang']) or !isset($_SESSION['keranjang'])) {
+// if (empty($_SESSION['keranjang'])) {
   echo "<script>alert('Produk kosong, silahkan belanja lebih dulu');</script>";
   echo "<script>location='index.php'</script>";
 }
@@ -54,7 +55,7 @@ if (empty($_SESSION['keranjang']) OR !isset($_SESSION['keranjang'])) {
             <td><?php echo $pecah['harga_produk'] ?></td>
             <td><?php echo $jumlah ?></td>
             <td><?php echo $subharga ?></td>
-            <td><a href="index.php?halaman=hapus_keranjang" class="btn btn-danger btn btn-x5" onclick="return confirm('apakah anda yakin ingin menghapus')">Hapus</a></td>
+            <td><a href="index.php?halaman=hapus_keranjang&id=<?php echo $id_produk; ?>" class="btn btn-danger btn btn-x5" onclick="return confirm('apakah anda yakin ingin menghapus')">Hapus</a></td>
           </tr>
           <?php $nomor++; ?>
         <?php endforeach; ?>
