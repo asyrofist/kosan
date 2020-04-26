@@ -1,3 +1,5 @@
+<!-- <pre><?php print_r($_SESSION); ?></pre> -->
+
 <!-- Begin Page Content -->
 <div class="container-fluid">
 

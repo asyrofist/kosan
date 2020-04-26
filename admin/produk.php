@@ -13,6 +13,7 @@
             <div class="card-body">
               <div class="table-responsive">
                 <table class="table table-bordered" id="dataTable" width="100%" cellspacing="0">
+                  <a href="index.php?halaman=tambah_produk" class="btn btn-primary">[+] Tambah Produk</a>
                   <thead>
                     <tr>
                       <th>No.</th>
@@ -20,6 +21,7 @@
                       <th>Harga</th>
                       <th>Berat</th>
                       <th>Foto</th>
+                      <th>Deskripsi</th>
                       <th>Aksi</th>
                     </tr>
                   </thead>
@@ -30,6 +32,7 @@
                       <th>Harga</th>
                       <th>Berat</th>
                       <th>Foto</th>
+                      <th>Deskripsi</th>
                       <th>Aksi</th>
                     </tr>
                   </tfoot>
@@ -43,9 +46,10 @@
                         <td>Rp. <?php echo number_format($pecah['harga_produk']); ?></td>
                         <td><?php echo $pecah['berat_produk'] ?></td>
                         <td><img src="<?php echo $pecah['foto_produk'] ?>" alt="" width="300" height="200"></td>
+                        <td><?php echo $pecah['deskripsi_produk'] ?></td>
                         <td>
-                          <a href="#" class="btn btn-primary">Ubah</a>
-                          <a href="#" class="btn btn-danger">Hapus</a>
+                          <a href="index.php?halaman=ubah_produk&id=<?php echo $pecah['id_produk'] ?>" class="btn btn-primary">Ubah</a>
+                          <a href="index.php?halaman=hapus_produk&id=<?php echo $pecah['id_produk']; ?>" onclick="return confirm ('Apakah anda yakin ingin menghapus data ini?')" class="btn btn-danger">Hapus</a>
                         </td>
                       </tr>
                     <?php } ?>

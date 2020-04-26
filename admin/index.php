@@ -13,6 +13,12 @@ if (isset($_GET['halaman'])) {
     include "main.php";
   } elseif ($_GET['halaman'] == 'produk') {
     include "produk.php";
+  } elseif ($_GET['halaman'] == 'tambah_produk') {
+    include "tambah_produk.php";
+  } elseif ($_GET['halaman'] == 'hapus_produk') {
+    include "hapus_produk.php";
+  } elseif ($_GET['halaman'] == 'ubah_produk') {
+    include "ubah_produk.php";
   } elseif ($_GET['halaman'] == 'pembelian') {
     include "pembelian.php";
   } elseif ($_GET['halaman'] == 'pelanggan') {

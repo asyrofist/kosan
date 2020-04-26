@@ -1,4 +1,14 @@
-<?php include "config.php" ?>
+<?php
+session_start();
+include "config.php";
+if (!isset($_SESSION['admin'])) {
+  echo "<script>location='login.php'</script>";
+  header('location:login.php');
+  exit();
+}
+?>
+
+
 
 <!DOCTYPE html>
 <html lang="en">
