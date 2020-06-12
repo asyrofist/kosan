@@ -196,7 +196,7 @@
     <div class="text-center">
       <h2 class="section-heading text-uppercase">Contact Us</h2>
       <h3 class="section-subheading text-muted">Silahkan daftar melalui form berikut: <a href="https://forms.gle/6uwGDL8j1VoHCfUk7">Link berikut</a>.
-        atau bisa menghubungi kami, segera bisa di <a href="https://wa.me/628813555578?text=Saya%20tertarik%20untuk%20kontrak%20di%20tempat%20anda"> kontak</a> kami segera.</h3>
+        atau bisa menghubungi kami, segera bisa di <a href="https://wa.me/6282231371971?text=Saya%20tertarik%20untuk%20kontrak%20di%20tempat%20anda"> kontak</a> kami segera.</h3>
     </div>
     <!-- <form action="test-mail.php" method="POST" id="contactForm" name="sentMessage" novalidate="novalidate">
       <div class="mb-5 row align-items-stretch">
