@@ -72,7 +72,7 @@
       <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
     </div>
     <ul class="timeline">
-      <li>
+      <!-- <li>
         <div class="timeline-image"><img class="rounded-circle img-fluid" src="dist/assets/img/about/1.jpg" alt="" /></div>
         <div class="timeline-panel">
           <div class="timeline-heading">
@@ -83,16 +83,16 @@
             <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!</p>
           </div>
         </div>
-      </li>
+      </li> -->
       <li class="timeline-inverted">
         <div class="timeline-image"><img class="rounded-circle img-fluid" src="https://lh3.googleusercontent.com/p/AF1QipO4pRR_YaDnxH1wi4pnNqkxhXGyou6A26815B4W=w296-h202-n-k-no-v2" alt="" width="200" height="200" /></div>
         <div class="timeline-panel">
           <div class="timeline-heading">
-            <h4>March 2011</h4>
-            <h4 class="subheading">An Agency is Born</h4>
+            <h4>2010</h4>
+            <h4 class="subheading">Bangunan Pertama Kami</h4>
           </div>
           <div class="timeline-body">
-            <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!</p>
+            <p class="text-muted">Berikut ini, adalah awal dari indekos kami. Berada di letak yang strategis dan cocok untuk penghuni mahasiswa yang dekat dengan Unair dan ITS.</p>
           </div>
         </div>
       </li>
@@ -100,11 +100,11 @@
         <div class="timeline-image"><img class="rounded-circle img-fluid" src="https://lh3.googleusercontent.com/p/AF1QipNW-Dvl7uWemKa6Ni9rDRA4VXOQL9Ceayjc8XGY=w296-h202-n-k-no-v1" alt="" width="200" height="200" /></div>
         <div class="timeline-panel">
           <div class="timeline-heading">
-            <h4>December 2012</h4>
-            <h4 class="subheading">Transition to Full Service</h4>
+            <h4>2015</h4>
+            <h4 class="subheading">Tempat Strategis cocok untuk rumah tangga</h4>
           </div>
           <div class="timeline-body">
-            <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!</p>
+            <p class="text-muted">Bertempat lebih strategis, kami mengemabangkan indekos lagi untuk memenuhi pasar warga surabaya yang lebih dekat dengan semua tempat.</p>
           </div>
         </div>
       </li>
@@ -112,11 +112,11 @@
         <div class="timeline-image"><img class="rounded-circle img-fluid" src="https://lh3.googleusercontent.com/p/AF1QipNARqAMVOJ9iVwPZ4KYMYkRPbuFsIPVHAY3N_kt=w296-h202-n-k-no-v1-rj" alt="" width="200" height="200" /></div>
         <div class="timeline-panel">
           <div class="timeline-heading">
-            <h4>July 2014</h4>
-            <h4 class="subheading">Phase Two Expansion</h4>
+            <h4>2018</h4>
+            <h4 class="subheading">Tempat Sejuk dan Damai</h4>
           </div>
           <div class="timeline-body">
-            <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!</p>
+            <p class="text-muted">Ini adalah tempat sejuk dan damai, karena sangat jarang penduduk yang berada disana. Sehingga cocok untuk rumah tangga baru untuk bertempat tinggal.</p>
           </div>
         </div>
       </li>
@@ -134,7 +134,7 @@
   <div class="container">
     <div class="text-center">
       <h2 class="section-heading text-uppercase">Our Amazing Team</h2>
-      <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
+      <h3 class="section-subheading text-muted">Berikut ini adalah tim hebat kami, yang mengembangkan bisnis kami.</h3>
     </div>
     <div class="row">
       <div class="col-lg-4">
@@ -195,7 +195,7 @@
   <div class="container">
     <div class="text-center">
       <h2 class="section-heading text-uppercase">Contact Us</h2>
-      <h3 class="section-subheading text-muted">Jika ingin menghubungi kami, segera bisa kontak kami segera.</h3>
+      <h3 class="section-subheading text-muted">Jika ingin menghubungi kami, segera bisa <a href="https://wa.me/628813555578?text=Saya%20tertarik%20untuk%20kontrak%20di%20tempat%20anda"> kontak</a> kami segera.</h3>
       <h3 class="section-subheading text-muted">Jika tidak bisa melalui form berikut: <a href="https://forms.gle/6uwGDL8j1VoHCfUk7">Link berikut</a>.</h3>
     </div>
     <form action="test-mail.php" method="POST" id="contactForm" name="sentMessage" novalidate="novalidate">
