@@ -196,6 +196,7 @@
     <div class="text-center">
       <h2 class="section-heading text-uppercase">Contact Us</h2>
       <h3 class="section-subheading text-muted">Jika ingin menghubungi kami, segera bisa kontak kami segera.</h3>
+      <h3 class="section-subheading text-muted">Jika tidak bisa melalui form berikut: <a href="https://forms.gle/6uwGDL8j1VoHCfUk7">Link berikut</a>.</h3>
     </div>
     <form action="test-mail.php" method="POST" id="contactForm" name="sentMessage" novalidate="novalidate">
       <div class="mb-5 row align-items-stretch">
