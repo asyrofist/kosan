@@ -195,7 +195,7 @@
   <div class="container">
     <div class="text-center">
       <h2 class="section-heading text-uppercase">Contact Us</h2>
-      <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
+      <h3 class="section-subheading text-muted">Jika ingin menghubungi kami, segera bisa kontak kami segera.</h3>
     </div>
     <form action="test-mail.php" method="POST" id="contactForm" name="sentMessage" novalidate="novalidate">
       <div class="mb-5 row align-items-stretch">
@@ -209,7 +209,7 @@
             <p class="help-block text-danger"></p>
           </div>
           <div class="form-group mb-md-0">
-            <input name="telpon_pelanggan" class="form-control" id="phone" type="tel" placeholder="Your Phone *" required="required" data-validation-required-message="Please enter your phone number." />
+            <input name="telepon_pelanggan" class="form-control" id="phone" type="tel" placeholder="Your Phone *" required="required" data-validation-required-message="Please enter your phone number." />
             <p class="help-block text-danger"></p>
           </div>
         </div>
@@ -222,7 +222,7 @@
       </div>
       <div class="text-center">
         <div id="success"></div>
-        <button class="btn btn-primary btn-xl text-uppercase" id="sendMessageButton" type="submit">Send Message</button>
+        <button name="simpan" class="btn btn-primary btn-xl text-uppercase" id="sendMessageButton" type="submit">Send Message</button>
       </div>
     </form>
   </div>
