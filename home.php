@@ -153,14 +153,14 @@
           <a class="mx-2 btn btn-dark btn-social" href="#!"><i class="fab fa-twitter"></i></a><a class="mx-2 btn btn-dark btn-social" href="#!"><i class="fab fa-facebook-f"></i></a><a class="mx-2 btn btn-dark btn-social" href="#!"><i class="fab fa-linkedin-in"></i></a>
         </div>
       </div>
-      <div class="col-lg-4">
+      <!-- <div class="col-lg-4">
         <div class="team-member">
           <img class="mx-auto rounded-circle" src="dist/assets/img/team/3.jpg" alt="" />
           <h4>Diana Petersen</h4>
           <p class="text-muted">Lead Developer</p>
           <a class="mx-2 btn btn-dark btn-social" href="#!"><i class="fab fa-twitter"></i></a><a class="mx-2 btn btn-dark btn-social" href="#!"><i class="fab fa-facebook-f"></i></a><a class="mx-2 btn btn-dark btn-social" href="#!"><i class="fab fa-linkedin-in"></i></a>
         </div>
-      </div>
+      </div> -->
     </div>
     <div class="row">
       <div class="mx-auto text-center col-lg-8">
