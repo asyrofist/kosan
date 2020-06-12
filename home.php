@@ -148,7 +148,7 @@
       <div class="col-lg-4">
         <div class="team-member">
           <img class="mx-auto rounded-circle" src="dist/assets/img/team/2.jpg" alt="" />
-          <h4>Reva Riani Putri Asrofi, S.Hum</h4>
+          <h4>Reva Riani Putri Asyrofi, S.Hum</h4>
           <p class="text-muted">Assistant</p>
           <a class="mx-2 btn btn-dark btn-social" href="#!"><i class="fab fa-twitter"></i></a><a class="mx-2 btn btn-dark btn-social" href="#!"><i class="fab fa-facebook-f"></i></a><a class="mx-2 btn btn-dark btn-social" href="#!"><i class="fab fa-linkedin-in"></i></a>
         </div>
@@ -170,7 +170,7 @@
   </div>
 </section>
 
-<!-- Clients-->
+<!-- Clients
 <section class="py-5">
   <div class="container">
     <div class="row">
@@ -188,7 +188,7 @@
       </div>
     </div>
   </div>
-</section>
+</section> -->
 
 <!-- Contact-->
 <section class="page-section" id="contact">
