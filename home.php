@@ -195,10 +195,10 @@
   <div class="container">
     <div class="text-center">
       <h2 class="section-heading text-uppercase">Contact Us</h2>
-      <h3 class="section-subheading text-muted">Jika ingin menghubungi kami, segera bisa <a href="https://wa.me/628813555578?text=Saya%20tertarik%20untuk%20kontrak%20di%20tempat%20anda"> kontak</a> kami segera.</h3>
-      <h3 class="section-subheading text-muted">Jika tidak bisa melalui form berikut: <a href="https://forms.gle/6uwGDL8j1VoHCfUk7">Link berikut</a>.</h3>
+      <h3 class="section-subheading text-muted">Silahkan daftar melalui form berikut: <a href="https://forms.gle/6uwGDL8j1VoHCfUk7">Link berikut</a>.
+        atau bisa menghubungi kami, segera bisa di <a href="https://wa.me/628813555578?text=Saya%20tertarik%20untuk%20kontrak%20di%20tempat%20anda"> kontak</a> kami segera.</h3>
     </div>
-    <form action="test-mail.php" method="POST" id="contactForm" name="sentMessage" novalidate="novalidate">
+    <!-- <form action="test-mail.php" method="POST" id="contactForm" name="sentMessage" novalidate="novalidate">
       <div class="mb-5 row align-items-stretch">
         <div class="col-md-6">
           <div class="form-group">
@@ -225,6 +225,6 @@
         <div id="success"></div>
         <button name="simpan" class="btn btn-primary btn-xl text-uppercase" id="sendMessageButton" type="submit">Send Message</button>
       </div>
-    </form>
+    </form> -->
   </div>
 </section>
