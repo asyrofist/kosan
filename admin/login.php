@@ -9,8 +9,8 @@ if (isset($_POST['login'])) {
     echo "<div class='text-center alert alert-success'>Login sukses</div>";
     echo "<meta http-equiv='refresh' content='1;url=index.php'>";
   } else {
-    // echo "<div class='text-center alert alert-danger'>Login gagal</div>";
-    // echo "<meta http-equiv='refresh' content='1;url=login.php'>";
+    echo "<div class='text-center alert alert-danger'>Login gagal</div>";
+    echo "<meta http-equiv='refresh' content='1;url=login.php'>";
   }
 }
 ?>
