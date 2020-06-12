@@ -140,16 +140,16 @@
       <div class="col-lg-4">
         <div class="team-member">
           <img class="mx-auto rounded-circle" src="dist/assets/img/team/1.jpg" alt="" />
-          <h4>Kay Garland</h4>
-          <p class="text-muted">Lead Designer</p>
+          <h4>Ibu Hj. Kundari</h4>
+          <p class="text-muted">Indekos Owner</p>
           <a class="mx-2 btn btn-dark btn-social" href="#!"><i class="fab fa-twitter"></i></a><a class="mx-2 btn btn-dark btn-social" href="#!"><i class="fab fa-facebook-f"></i></a><a class="mx-2 btn btn-dark btn-social" href="#!"><i class="fab fa-linkedin-in"></i></a>
         </div>
       </div>
       <div class="col-lg-4">
         <div class="team-member">
           <img class="mx-auto rounded-circle" src="dist/assets/img/team/2.jpg" alt="" />
-          <h4>Larry Parker</h4>
-          <p class="text-muted">Lead Marketer</p>
+          <h4>Reva Riani Putri Asrofi, S.Hum</h4>
+          <p class="text-muted">Assistant</p>
           <a class="mx-2 btn btn-dark btn-social" href="#!"><i class="fab fa-twitter"></i></a><a class="mx-2 btn btn-dark btn-social" href="#!"><i class="fab fa-facebook-f"></i></a><a class="mx-2 btn btn-dark btn-social" href="#!"><i class="fab fa-linkedin-in"></i></a>
         </div>
       </div>
@@ -164,7 +164,7 @@
     </div>
     <div class="row">
       <div class="mx-auto text-center col-lg-8">
-        <p class="large text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde.</p>
+        <p class="large text-muted">Kami bertugas dalam perawatan, pemeliharaan & kenyamanan indekos.</p>
       </div>
     </div>
   </div>
