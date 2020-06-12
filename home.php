@@ -85,7 +85,7 @@
         </div>
       </li>
       <li class="timeline-inverted">
-        <div class="timeline-image"><img class="rounded-circle img-fluid" src="dist/assets/img/about/2.jpg" alt="" /></div>
+        <div class="timeline-image"><img class="rounded-circle img-fluid" src="https://lh3.googleusercontent.com/p/AF1QipO4pRR_YaDnxH1wi4pnNqkxhXGyou6A26815B4W=w296-h202-n-k-no-v2" alt="" /></div>
         <div class="timeline-panel">
           <div class="timeline-heading">
             <h4>March 2011</h4>
@@ -97,7 +97,7 @@
         </div>
       </li>
       <li>
-        <div class="timeline-image"><img class="rounded-circle img-fluid" src="dist/assets/img/about/3.jpg" alt="" /></div>
+        <div class="timeline-image"><img class="rounded-circle img-fluid" src="https://lh3.googleusercontent.com/p/AF1QipNW-Dvl7uWemKa6Ni9rDRA4VXOQL9Ceayjc8XGY=w296-h202-n-k-no-v1" alt="" /></div>
         <div class="timeline-panel">
           <div class="timeline-heading">
             <h4>December 2012</h4>
@@ -109,7 +109,7 @@
         </div>
       </li>
       <li class="timeline-inverted">
-        <div class="timeline-image"><img class="rounded-circle img-fluid" src="dist/assets/img/about/4.jpg" alt="" /></div>
+        <div class="timeline-image"><img class="rounded-circle img-fluid" src="https://www.google.com/maps/uv?hl=id&pb=!1s0x2dd7fde9c932d69f%3A0xa6c225018b1a580c!3m1!7e115!4shttps%3A%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipNARqAMVOJ9iVwPZ4KYMYkRPbuFsIPVHAY3N_kt%3Dw284-h160-k-no!5skos%20sepanjang%20indah%20-%20Penelusuran%20Google!15sCgIgAQ&imagekey=!1e10!2sAF1QipNARqAMVOJ9iVwPZ4KYMYkRPbuFsIPVHAY3N_kt&sa=X&ved=2ahUKEwigv-LhnvvpAhWHSH0KHVtUCfUQoiowE3oECBEQBg#" alt="" /></div>
         <div class="timeline-panel">
           <div class="timeline-heading">
             <h4>July 2014</h4>
