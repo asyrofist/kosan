@@ -1,8 +1,8 @@
 <!-- Masthead-->
 <header class="masthead">
   <div class="container">
-    <div class="masthead-subheading">Welcome To Our Studio!</div>
-    <div class="masthead-heading text-uppercase">It's Nice To Meet You</div>
+    <div class="masthead-subheading">Selamat Datang di Kosan Asyrofi</div>
+    <div class="masthead-heading text-uppercase">Tempat Ternyaman Kosan Surabaya</div>
     <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="#services">Tell Me More</a>
   </div>
 </header>
@@ -14,7 +14,7 @@
       <h2 class="section-heading text-uppercase">Services</h2>
       <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
     </div>
-    <div class="row text-center">
+    <div class="text-center row">
       <div class="col-md-4">
         <span class="fa-stack fa-4x"><i class="fas fa-circle fa-stack-2x text-primary"></i><i class="fas fa-shopping-cart fa-stack-1x fa-inverse"></i></span>
         <h4 class="my-3">E-Commerce</h4>
@@ -44,7 +44,7 @@
     <div class="row">
       <?php $ambil = $koneksi->query("SELECT * FROM produk");
       while ($perproduk = $ambil->fetch_assoc()) { ?>
-        <div class="col-lg-4 col-sm-6 mb-4">
+        <div class="mb-4 col-lg-4 col-sm-6">
           <div class="portfolio-item">
             <!-- <a class="portfolio-link" data-toggle="modal" href="#portofolio<?php echo $perproduk['id_produk'] ?>"> -->
             <a class="portfolio-link" href="shop/index.php?halaman=item_shop&id=<?php echo $perproduk['id_produk'] ?>">
@@ -142,7 +142,7 @@
           <img class="mx-auto rounded-circle" src="dist/assets/img/team/1.jpg" alt="" />
           <h4>Kay Garland</h4>
           <p class="text-muted">Lead Designer</p>
-          <a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-twitter"></i></a><a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-facebook-f"></i></a><a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-linkedin-in"></i></a>
+          <a class="mx-2 btn btn-dark btn-social" href="#!"><i class="fab fa-twitter"></i></a><a class="mx-2 btn btn-dark btn-social" href="#!"><i class="fab fa-facebook-f"></i></a><a class="mx-2 btn btn-dark btn-social" href="#!"><i class="fab fa-linkedin-in"></i></a>
         </div>
       </div>
       <div class="col-lg-4">
@@ -150,7 +150,7 @@
           <img class="mx-auto rounded-circle" src="dist/assets/img/team/2.jpg" alt="" />
           <h4>Larry Parker</h4>
           <p class="text-muted">Lead Marketer</p>
-          <a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-twitter"></i></a><a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-facebook-f"></i></a><a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-linkedin-in"></i></a>
+          <a class="mx-2 btn btn-dark btn-social" href="#!"><i class="fab fa-twitter"></i></a><a class="mx-2 btn btn-dark btn-social" href="#!"><i class="fab fa-facebook-f"></i></a><a class="mx-2 btn btn-dark btn-social" href="#!"><i class="fab fa-linkedin-in"></i></a>
         </div>
       </div>
       <div class="col-lg-4">
@@ -158,12 +158,12 @@
           <img class="mx-auto rounded-circle" src="dist/assets/img/team/3.jpg" alt="" />
           <h4>Diana Petersen</h4>
           <p class="text-muted">Lead Developer</p>
-          <a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-twitter"></i></a><a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-facebook-f"></i></a><a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-linkedin-in"></i></a>
+          <a class="mx-2 btn btn-dark btn-social" href="#!"><i class="fab fa-twitter"></i></a><a class="mx-2 btn btn-dark btn-social" href="#!"><i class="fab fa-facebook-f"></i></a><a class="mx-2 btn btn-dark btn-social" href="#!"><i class="fab fa-linkedin-in"></i></a>
         </div>
       </div>
     </div>
     <div class="row">
-      <div class="col-lg-8 mx-auto text-center">
+      <div class="mx-auto text-center col-lg-8">
         <p class="large text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde.</p>
       </div>
     </div>
@@ -174,17 +174,17 @@
 <section class="py-5">
   <div class="container">
     <div class="row">
-      <div class="col-md-3 col-sm-6 my-3">
-        <a href="#!"><img class="img-fluid d-block mx-auto" src="dist/assets/img/logos/envato.jpg" alt="" /></a>
+      <div class="my-3 col-md-3 col-sm-6">
+        <a href="#!"><img class="mx-auto img-fluid d-block" src="dist/assets/img/logos/envato.jpg" alt="" /></a>
       </div>
-      <div class="col-md-3 col-sm-6 my-3">
-        <a href="#!"><img class="img-fluid d-block mx-auto" src="dist/assets/img/logos/designmodo.jpg" alt="" /></a>
+      <div class="my-3 col-md-3 col-sm-6">
+        <a href="#!"><img class="mx-auto img-fluid d-block" src="dist/assets/img/logos/designmodo.jpg" alt="" /></a>
       </div>
-      <div class="col-md-3 col-sm-6 my-3">
-        <a href="#!"><img class="img-fluid d-block mx-auto" src="dist/assets/img/logos/themeforest.jpg" alt="" /></a>
+      <div class="my-3 col-md-3 col-sm-6">
+        <a href="#!"><img class="mx-auto img-fluid d-block" src="dist/assets/img/logos/themeforest.jpg" alt="" /></a>
       </div>
-      <div class="col-md-3 col-sm-6 my-3">
-        <a href="#!"><img class="img-fluid d-block mx-auto" src="dist/assets/img/logos/creative-market.jpg" alt="" /></a>
+      <div class="my-3 col-md-3 col-sm-6">
+        <a href="#!"><img class="mx-auto img-fluid d-block" src="dist/assets/img/logos/creative-market.jpg" alt="" /></a>
       </div>
     </div>
   </div>
@@ -198,7 +198,7 @@
       <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
     </div>
     <form id="contactForm" name="sentMessage" novalidate="novalidate">
-      <div class="row align-items-stretch mb-5">
+      <div class="mb-5 row align-items-stretch">
         <div class="col-md-6">
           <div class="form-group">
             <input class="form-control" id="name" type="text" placeholder="Your Name *" required="required" data-validation-required-message="Please enter your name." />

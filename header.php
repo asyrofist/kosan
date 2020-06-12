@@ -26,16 +26,16 @@ include "config.php";
   <nav class="navbar navbar-expand-lg navbar-dark fixed-top" id="mainNav">
     <div class="container">
       <!-- <a class="navbar-brand js-scroll-trigger" href="../<?php echo $baseurl; ?>#page-top"><img src="dist/assets/img/navbar-logo.svg" /></a><button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">Menu<i class="ml-1 fas fa-bars"></i></button> -->
-      <a class="navbar-brand js-scroll-trigger" href="../<?php echo $baseurl; ?>#page-top">Kosan Asyrofi</a><button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">Menu<i class="ml-1 fas fa-bars"></i></button>
+      <a class="navbar-brand js-scroll-trigger" href="../#page-top">Kosan Asyrofi</a><button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">Menu<i class="ml-1 fas fa-bars"></i></button>
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="ml-auto navbar-nav text-uppercase">
-          <li class="nav-item"><a class="nav-link js-scroll-trigger" href="../<?php echo $baseurl; ?>#services">Services</a></li>
-          <li class="nav-item"><a class="nav-link js-scroll-trigger" href="../<?php echo $baseurl; ?>#portfolio">Portfolio</a></li>
-          <li class="nav-item"><a class="nav-link js-scroll-trigger" href="../<?php echo $baseurl; ?>#about">About</a></li>
-          <li class="nav-item"><a class="nav-link js-scroll-trigger" href="../<?php echo $baseurl; ?>#team">Team</a></li>
-          <li class="nav-item"><a class="nav-link js-scroll-trigger" href="../<?php echo $baseurl; ?>#contact">Contact</a></li>
-          <li class="nav-item"><a class="nav-link js-scroll-trigger" href="../<?php echo $baseurl; ?>blog">blog</a></li>
-          <li class="nav-item"><a class="nav-link js-scroll-trigger" href="../<?php echo $baseurl; ?>shop">shop</a></li>
+          <li class="nav-item"><a class="nav-link js-scroll-trigger" href="../#services">Services</a></li>
+          <li class="nav-item"><a class="nav-link js-scroll-trigger" href="../#portfolio">Portfolio</a></li>
+          <li class="nav-item"><a class="nav-link js-scroll-trigger" href="../#about">About</a></li>
+          <li class="nav-item"><a class="nav-link js-scroll-trigger" href="../#team">Team</a></li>
+          <li class="nav-item"><a class="nav-link js-scroll-trigger" href="../#contact">Contact</a></li>
+          <li class="nav-item"><a class="nav-link js-scroll-trigger" href="../blog">blog</a></li>
+          <li class="nav-item"><a class="nav-link js-scroll-trigger" href="../shop">shop</a></li>
         </ul>
       </div>
     </div>
