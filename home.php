@@ -85,7 +85,7 @@
         </div>
       </li>
       <li class="timeline-inverted">
-        <div class="timeline-image"><img class="rounded-circle img-fluid" src="https://lh3.googleusercontent.com/p/AF1QipO4pRR_YaDnxH1wi4pnNqkxhXGyou6A26815B4W=w296-h202-n-k-no-v2" alt="" /></div>
+        <div class="timeline-image"><img class="rounded-circle img-fluid" src="https://lh3.googleusercontent.com/p/AF1QipO4pRR_YaDnxH1wi4pnNqkxhXGyou6A26815B4W=w296-h202-n-k-no-v2" alt="" width="200" height="200" /></div>
         <div class="timeline-panel">
           <div class="timeline-heading">
             <h4>March 2011</h4>
@@ -97,7 +97,7 @@
         </div>
       </li>
       <li>
-        <div class="timeline-image"><img class="rounded-circle img-fluid" src="https://lh3.googleusercontent.com/p/AF1QipNW-Dvl7uWemKa6Ni9rDRA4VXOQL9Ceayjc8XGY=w296-h202-n-k-no-v1" alt="" /></div>
+        <div class="timeline-image"><img class="rounded-circle img-fluid" src="https://lh3.googleusercontent.com/p/AF1QipNW-Dvl7uWemKa6Ni9rDRA4VXOQL9Ceayjc8XGY=w296-h202-n-k-no-v1" alt="" width="200" height="200" /></div>
         <div class="timeline-panel">
           <div class="timeline-heading">
             <h4>December 2012</h4>
@@ -109,7 +109,7 @@
         </div>
       </li>
       <li class="timeline-inverted">
-        <div class="timeline-image"><img class="rounded-circle img-fluid" src="https://lh3.googleusercontent.com/p/AF1QipNARqAMVOJ9iVwPZ4KYMYkRPbuFsIPVHAY3N_kt=w296-h202-n-k-no-v1-rj" alt="" /></div>
+        <div class="timeline-image"><img class="rounded-circle img-fluid" src="https://lh3.googleusercontent.com/p/AF1QipNARqAMVOJ9iVwPZ4KYMYkRPbuFsIPVHAY3N_kt=w296-h202-n-k-no-v1-rj" alt="" width="200" height="200" /></div>
         <div class="timeline-panel">
           <div class="timeline-heading">
             <h4>July 2014</h4>
