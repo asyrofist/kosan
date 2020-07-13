@@ -17,18 +17,18 @@
     <div class="text-center row">
       <div class="col-md-4">
         <span class="fa-stack fa-4x"><i class="fas fa-circle fa-stack-2x text-primary"></i><i class="fas fa-shopping-cart fa-stack-1x fa-inverse"></i></span>
-        <h4 class="my-3">E-Commerce</h4>
-        <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p>
+        <h4 class="my-3">Layanan Kami</h4>
+        <p class="text-muted">Kami selalu melayani anda dengan baik dan penuh tanggung jawab, jadi jangan sungkan-sungkan bila bertanya lebih asal masih dalam domain hunian kosan.</p>
       </div>
       <div class="col-md-4">
         <span class="fa-stack fa-4x"><i class="fas fa-circle fa-stack-2x text-primary"></i><i class="fas fa-laptop fa-stack-1x fa-inverse"></i></span>
-        <h4 class="my-3">Responsive Design</h4>
-        <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p>
+        <h4 class="my-3">Fasilitas Kami</h4>
+        <p class="text-muted">Selayaknya di kosan pada umumnya, kami menyediakan kamar mandi dalam, parkiran luas dan fasilitas lainnya yang membuat anda nyaman seharian di kosan.</p>
       </div>
       <div class="col-md-4">
         <span class="fa-stack fa-4x"><i class="fas fa-circle fa-stack-2x text-primary"></i><i class="fas fa-lock fa-stack-1x fa-inverse"></i></span>
-        <h4 class="my-3">Web Security</h4>
-        <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p>
+        <h4 class="my-3">Mengapa memilih kami?</h4>
+        <p class="text-muted">Karena hunian kami terletak di hunian strategis dan sangat terjangkau di kelasnya, jadi tunggu apa lagi. segera pesan sekarang keburu kehabisan.</p>
       </div>
     </div>
   </div>
